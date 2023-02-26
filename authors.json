@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "63fb1bb18c377b45e4e1242f"
+  },
+  "firstname": "Эмир",
+  "lastname": "Сыздыков",
+  "email": "emirkosya@mail.ru"
+},{
+  "_id": {
+    "$oid": "63fb1bb18c377b45e4e12430"
+  },
+  "firstname": "Кирилл",
+  "lastname": "Носик",
+  "email": "nosikkirill@mail.ru"
+}]

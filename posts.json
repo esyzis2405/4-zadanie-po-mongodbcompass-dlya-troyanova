@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "63fb20cb8c377b45e4e12431"
+  },
+  "title": "Привет",
+  "content": "Хай",
+  "author": {
+    "$oid": "63fb1bb18c377b45e4e1242f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1677196800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fb20cb8c377b45e4e12432"
+  },
+  "title": "привет2",
+  "content": "хай",
+  "author": "63fb1bb18c377b45e4e1242f",
+  "date": {
+    "$date": {
+      "$numberLong": "1677283200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fb20cb8c377b45e4e12433"
+  },
+  "title": "привет3",
+  "content": "хай3",
+  "author": {
+    "$oid": "63fb1bb18c377b45e4e12430"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1677369600000"
+    }
+  }
+}]
